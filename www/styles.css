@@ -1,0 +1,27 @@
+body{
+    padding: 50px;
+    background: url("./img/bg.png");
+}
+.container{
+    max-width: 600px;
+    margin: auto;
+    padding: 50px;
+    box-shadow: rgb(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.form-group{
+    margin-bottom: 30px;
+}
+.link{
+    /* opacity: 0; */
+    text-align: center;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.5);
+    display: block;
+    margin: 30px auto;
+    text-decoration: none;
+}
+.link:hover{
+    color: #fff;
+}
+/* zek7T476aC5Y0[_I */
